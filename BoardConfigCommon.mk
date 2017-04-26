@@ -16,4 +16,4 @@
 VENDOR_PATH := device/google/msm8916-common
 
 # Include board config fragments
-include $(VENDOR_PATH)/board/*.mk
+include $(PLATFORM_PATH)/board/*.mk
